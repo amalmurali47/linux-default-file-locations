@@ -1,0 +1,9 @@
+/usr/lib/python3.5/idlelib/Icons/idle_32.gif
+/usr/lib/python3.5/idlelib/Icons/openfolder.gif
+/usr/lib/python3.5/idlelib/Icons/folder.gif
+/usr/lib/python3.5/idlelib/Icons/idle_48.gif
+/usr/lib/python3.5/idlelib/Icons/python.gif
+/usr/lib/python3.5/idlelib/Icons/plusnode.gif
+/usr/lib/python3.5/idlelib/Icons/idle_16.gif
+/usr/lib/python3.5/idlelib/Icons/minusnode.gif
+/usr/lib/python3.5/idlelib/Icons/tk.gif
