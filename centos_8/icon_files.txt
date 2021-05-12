@@ -1,0 +1,7 @@
+/usr/share/cockpit/branding/centos/favicon.ico
+/usr/share/cockpit/branding/debian/favicon.ico
+/usr/share/cockpit/branding/default/favicon.ico
+/usr/share/cockpit/branding/fedora/favicon.ico
+/usr/share/cockpit/branding/rhel/favicon.ico
+/usr/share/cockpit/branding/scientific/favicon.ico
+/usr/share/cockpit/branding/ubuntu/favicon.ico

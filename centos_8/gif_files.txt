@@ -1,0 +1,2 @@
+/usr/share/doc/kbd/ANSI-dvorak.gif
+/usr/share/doc/python3-jinja2/html/_static/ajax-loader.gif

@@ -1,0 +1,4 @@
+/usr/share/cockpit/branding/default/bg-login.jpg
+/usr/share/cockpit/branding/default/bg-plain.jpg
+/usr/share/cockpit/branding/opensuse-tumbleweed/default-1920x1200.jpg
+/usr/share/cockpit/branding/rhel/bg-login.jpg
