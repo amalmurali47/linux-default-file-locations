@@ -1,0 +1,1 @@
+/usr/share/doc/kbd/ANSI-dvorak.gif

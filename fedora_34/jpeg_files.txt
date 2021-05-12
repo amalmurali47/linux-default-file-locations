@@ -1,0 +1,2 @@
+/usr/share/doc/syslinux/sample/syslinux_splash.jpg
+/usr/share/doc/syslinux/sample/m16-640x640-syslinux.jpg
